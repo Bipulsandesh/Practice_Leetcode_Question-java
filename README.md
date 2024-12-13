@@ -41,4 +41,12 @@
 |  |
 | ------- |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
