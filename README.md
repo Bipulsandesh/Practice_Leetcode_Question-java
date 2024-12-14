@@ -25,6 +25,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0004-median-of-two-sorted-arrays) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 ## Heap (Priority Queue)
@@ -49,4 +50,12 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0021-merge-two-sorted-lists) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
