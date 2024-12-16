@@ -22,6 +22,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0013-roman-to-integer) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Array
