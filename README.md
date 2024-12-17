@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0013-roman-to-integer) |
+| [2300-construct-string-with-repeat-limit](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2300-construct-string-with-repeat-limit) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 ## String
 |  |
@@ -15,6 +16,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0006-zigzag-conversion) |
 | [0013-roman-to-integer](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0013-roman-to-integer) |
+| [2300-construct-string-with-repeat-limit](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2300-construct-string-with-repeat-limit) |
 ## Sliding Window
 |  |
 | ------- |
@@ -38,6 +40,7 @@
 |  |
 | ------- |
 | [1917-maximum-average-pass-ratio](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1917-maximum-average-pass-ratio) |
+| [2300-construct-string-with-repeat-limit](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2300-construct-string-with-repeat-limit) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -79,4 +82,9 @@
 |  |
 | ------- |
 | [1917-maximum-average-pass-ratio](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1917-maximum-average-pass-ratio) |
+| [2300-construct-string-with-repeat-limit](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2300-construct-string-with-repeat-limit) |
+## Counting
+|  |
+| ------- |
+| [2300-construct-string-with-repeat-limit](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2300-construct-string-with-repeat-limit) |
 <!---LeetCode Topics End-->
