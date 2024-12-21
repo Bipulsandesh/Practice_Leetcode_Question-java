@@ -20,6 +20,7 @@
 | [0010-regular-expression-matching](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0014-longest-common-prefix) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2300-construct-string-with-repeat-limit) |
 ## Sliding Window
 |  |
@@ -129,4 +130,8 @@
 |  |
 | ------- |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
