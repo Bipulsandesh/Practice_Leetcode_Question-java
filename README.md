@@ -55,6 +55,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0023-merge-k-sorted-lists) |
 | [1917-maximum-average-pass-ratio](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1917-maximum-average-pass-ratio) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2300-construct-string-with-repeat-limit) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2692-take-gifts-from-the-richest-pile) |
@@ -80,6 +81,7 @@
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0023-merge-k-sorted-lists) |
 ## Recursion
 |  |
 | ------- |
@@ -94,6 +96,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0023-merge-k-sorted-lists) |
 ## Two Pointers
 |  |
 | ------- |
@@ -171,4 +174,8 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0022-generate-parentheses) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
