@@ -45,6 +45,7 @@
 | [0015-3sum](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0018-4sum) |
+| [0494-target-sum](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0494-target-sum) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0780-max-chunks-to-make-sorted) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1917-maximum-average-pass-ratio](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1917-maximum-average-pass-ratio) |
@@ -112,6 +113,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0022-generate-parentheses) |
+| [0494-target-sum](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0494-target-sum) |
 ## Greedy
 |  |
 | ------- |
@@ -174,6 +176,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0022-generate-parentheses) |
+| [0494-target-sum](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0494-target-sum) |
 ## Merge Sort
 |  |
 | ------- |
