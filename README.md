@@ -45,6 +45,7 @@
 | [0015-3sum](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0018-4sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0494-target-sum](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0494-target-sum) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0780-max-chunks-to-make-sorted) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -111,6 +112,7 @@
 | [0016-3sum-closest](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## Dynamic Programming
 |  |
 | ------- |
