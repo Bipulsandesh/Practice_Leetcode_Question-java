@@ -36,6 +36,7 @@
 | [0007-reverse-integer](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0029-divide-two-integers) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Array
 |  |
@@ -195,4 +196,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
