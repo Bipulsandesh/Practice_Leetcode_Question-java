@@ -24,6 +24,7 @@
 | [0014-longest-common-prefix](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0022-generate-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2300-construct-string-with-repeat-limit) |
 ## Sliding Window
 |  |
@@ -114,6 +115,7 @@
 | [0018-4sum](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -189,4 +191,8 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0023-merge-k-sorted-lists) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
