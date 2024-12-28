@@ -51,6 +51,7 @@
 | [0016-3sum-closest](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0031-next-permutation) |
 | [0494-target-sum](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0780-max-chunks-to-make-sorted) |
@@ -121,6 +122,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0031-next-permutation](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0031-next-permutation) |
 ## Dynamic Programming
 |  |
 | ------- |
