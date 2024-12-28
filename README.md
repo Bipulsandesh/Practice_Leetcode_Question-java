@@ -27,6 +27,7 @@
 | [0022-generate-parentheses](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0032-longest-valid-parentheses](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0032-longest-valid-parentheses) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2300-construct-string-with-repeat-limit) |
 ## Sliding Window
 |  |
@@ -129,6 +130,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0032-longest-valid-parentheses) |
 | [0494-target-sum](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [1063-best-sightseeing-pair](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1063-best-sightseeing-pair) |
@@ -146,6 +148,7 @@
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0032-longest-valid-parentheses) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0780-max-chunks-to-make-sorted) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
