@@ -10,6 +10,7 @@
 | [0013-roman-to-integer](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0036-valid-sudoku](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0036-valid-sudoku) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2300-construct-string-with-repeat-limit) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 ## String
@@ -56,6 +57,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0036-valid-sudoku) |
 | [0494-target-sum](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0780-max-chunks-to-make-sorted) |
@@ -216,4 +218,8 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0029-divide-two-integers) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
