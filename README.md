@@ -53,6 +53,7 @@
 | [0018-4sum](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0033-search-in-rotated-sorted-array) |
 | [0494-target-sum](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0780-max-chunks-to-make-sorted) |
@@ -106,6 +107,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0004-median-of-two-sorted-arrays) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0033-search-in-rotated-sorted-array) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Divide and Conquer
 |  |
