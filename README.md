@@ -33,6 +33,7 @@
 | [0032-longest-valid-parentheses](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0043-multiply-strings) |
+| [0044-wildcard-matching](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0044-wildcard-matching) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2300-construct-string-with-repeat-limit) |
 ## Sliding Window
@@ -120,6 +121,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0025-reverse-nodes-in-k-group) |
+| [0044-wildcard-matching](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0044-wildcard-matching) |
 ## Binary Search
 |  |
 | ------- |
@@ -154,6 +156,7 @@
 | [0022-generate-parentheses](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0042-trapping-rain-water) |
+| [0044-wildcard-matching](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0044-wildcard-matching) |
 | [0494-target-sum](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [1063-best-sightseeing-pair](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1063-best-sightseeing-pair) |
@@ -162,6 +165,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0011-container-with-most-water) |
+| [0044-wildcard-matching](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0044-wildcard-matching) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0780-max-chunks-to-make-sorted) |
 | [1917-maximum-average-pass-ratio](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1917-maximum-average-pass-ratio) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2300-construct-string-with-repeat-limit) |
