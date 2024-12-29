@@ -32,6 +32,7 @@
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0043-multiply-strings) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2300-construct-string-with-repeat-limit) |
 ## Sliding Window
@@ -46,6 +47,7 @@
 | [0012-integer-to-roman](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0043-multiply-strings) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Array
 |  |
@@ -91,6 +93,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0043-multiply-strings) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
