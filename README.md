@@ -12,6 +12,7 @@
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0037-sudoku-solver) |
+| [0041-first-missing-positive](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0041-first-missing-positive) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2300-construct-string-with-repeat-limit) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 ## String
@@ -64,6 +65,7 @@
 | [0037-sudoku-solver](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0040-combination-sum-ii) |
+| [0041-first-missing-positive](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0041-first-missing-positive) |
 | [0494-target-sum](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0780-max-chunks-to-make-sorted) |
