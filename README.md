@@ -13,6 +13,7 @@
 | [0036-valid-sudoku](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0049-group-anagrams) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2300-construct-string-with-repeat-limit) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 ## String
@@ -34,6 +35,7 @@
 | [0038-count-and-say](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0044-wildcard-matching) |
+| [0049-group-anagrams](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0049-group-anagrams) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2300-construct-string-with-repeat-limit) |
 ## Sliding Window
@@ -75,6 +77,7 @@
 | [0046-permutations](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0049-group-anagrams) |
 | [0494-target-sum](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0780-max-chunks-to-make-sorted) |
@@ -109,6 +112,7 @@
 | [0015-3sum](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0049-group-anagrams) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0780-max-chunks-to-make-sorted) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 ## Linked List
