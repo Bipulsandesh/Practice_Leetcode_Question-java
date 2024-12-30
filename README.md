@@ -80,6 +80,7 @@
 | [0049-group-anagrams](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0055-jump-game) |
 | [0494-target-sum](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0780-max-chunks-to-make-sorted) |
@@ -170,6 +171,7 @@
 | [0042-trapping-rain-water](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0055-jump-game) |
 | [0494-target-sum](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [1063-best-sightseeing-pair](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1063-best-sightseeing-pair) |
@@ -181,6 +183,7 @@
 | [0011-container-with-most-water](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0055-jump-game) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0780-max-chunks-to-make-sorted) |
 | [1917-maximum-average-pass-ratio](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1917-maximum-average-pass-ratio) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2300-construct-string-with-repeat-limit) |
