@@ -78,6 +78,7 @@
 | [0047-permutations-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0051-n-queens) |
 | [0494-target-sum](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0780-max-chunks-to-make-sorted) |
@@ -244,6 +245,7 @@
 | [0040-combination-sum-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0051-n-queens) |
 | [0494-target-sum](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0494-target-sum) |
 ## Merge Sort
 |  |
