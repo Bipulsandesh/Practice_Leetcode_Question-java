@@ -81,6 +81,7 @@
 | [0051-n-queens](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0056-merge-intervals) |
 | [0494-target-sum](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0780-max-chunks-to-make-sorted) |
@@ -118,6 +119,7 @@
 | [0016-3sum-closest](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0056-merge-intervals) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0780-max-chunks-to-make-sorted) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 ## Linked List
