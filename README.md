@@ -55,6 +55,7 @@
 | [0043-multiply-strings](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0048-rotate-image) |
 | [0060-permutation-sequence](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0060-permutation-sequence) |
+| [0062-unique-paths](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0062-unique-paths) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Array
 |  |
@@ -182,6 +183,7 @@
 | [0044-wildcard-matching](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0062-unique-paths) |
 | [0494-target-sum](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [1025-minimum-cost-for-tickets](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1025-minimum-cost-for-tickets) |
@@ -287,4 +289,8 @@
 |  |
 | ------- |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1537-maximum-score-after-splitting-a-string) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
