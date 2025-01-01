@@ -88,6 +88,7 @@
 | [0056-merge-intervals](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0064-minimum-path-sum) |
 | [0494-target-sum](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0780-max-chunks-to-make-sorted) |
@@ -186,6 +187,7 @@
 | [0055-jump-game](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0064-minimum-path-sum) |
 | [0494-target-sum](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [1025-minimum-cost-for-tickets](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1025-minimum-cost-for-tickets) |
@@ -288,6 +290,7 @@
 | [0048-rotate-image](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0064-minimum-path-sum) |
 ## Prefix Sum
 |  |
 | ------- |
