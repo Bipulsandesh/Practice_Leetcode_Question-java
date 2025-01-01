@@ -37,6 +37,7 @@
 | [0044-wildcard-matching](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0058-length-of-last-word) |
+| [0065-valid-number](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0065-valid-number) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2300-construct-string-with-repeat-limit) |
