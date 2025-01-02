@@ -58,6 +58,7 @@
 | [0048-rotate-image](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0048-rotate-image) |
 | [0060-permutation-sequence](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0062-unique-paths) |
+| [0066-plus-one](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0066-plus-one) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Array
 |  |
@@ -91,6 +92,7 @@
 | [0057-insert-interval](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0064-minimum-path-sum) |
+| [0066-plus-one](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0066-plus-one) |
 | [0494-target-sum](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0780-max-chunks-to-make-sorted) |
