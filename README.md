@@ -38,6 +38,7 @@
 | [0049-group-anagrams](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0065-valid-number) |
+| [0068-text-justification](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0068-text-justification) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2300-construct-string-with-repeat-limit) |
@@ -93,6 +94,7 @@
 | [0063-unique-paths-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0066-plus-one) |
+| [0068-text-justification](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0068-text-justification) |
 | [0494-target-sum](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0780-max-chunks-to-make-sorted) |
@@ -121,6 +123,7 @@
 | ------- |
 | [0043-multiply-strings](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0054-spiral-matrix) |
+| [0068-text-justification](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0068-text-justification) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
