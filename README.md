@@ -60,6 +60,7 @@
 | [0060-permutation-sequence](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0070-climbing-stairs) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Array
 |  |
@@ -197,6 +198,7 @@
 | [0062-unique-paths](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0064-minimum-path-sum) |
+| [0070-climbing-stairs](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0070-climbing-stairs) |
 | [0494-target-sum](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [1025-minimum-cost-for-tickets](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1025-minimum-cost-for-tickets) |
@@ -310,4 +312,8 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0062-unique-paths) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
