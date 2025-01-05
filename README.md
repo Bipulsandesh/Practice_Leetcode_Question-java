@@ -104,6 +104,7 @@
 | [0068-text-justification](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0075-sort-colors) |
 | [0494-target-sum](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0780-max-chunks-to-make-sorted) |
@@ -146,6 +147,7 @@
 | [0018-4sum](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0075-sort-colors) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0780-max-chunks-to-make-sorted) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 ## Linked List
@@ -194,6 +196,7 @@
 | [0031-next-permutation](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0075-sort-colors) |
 ## Dynamic Programming
 |  |
 | ------- |
