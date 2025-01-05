@@ -103,6 +103,7 @@
 | [0066-plus-one](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0074-search-a-2d-matrix) |
 | [0494-target-sum](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0780-max-chunks-to-make-sorted) |
@@ -172,6 +173,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0074-search-a-2d-matrix) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Divide and Conquer
 |  |
@@ -314,6 +316,7 @@
 | [0063-unique-paths-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0074-search-a-2d-matrix) |
 ## Prefix Sum
 |  |
 | ------- |
