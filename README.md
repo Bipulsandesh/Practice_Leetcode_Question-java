@@ -15,6 +15,7 @@
 | [0041-first-missing-positive](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0073-set-matrix-zeroes) |
+| [0076-minimum-window-substring](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0076-minimum-window-substring) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2300-construct-string-with-repeat-limit) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -43,6 +44,7 @@
 | [0068-text-justification](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0072-edit-distance) |
+| [0076-minimum-window-substring](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0076-minimum-window-substring) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -55,6 +57,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0076-minimum-window-substring](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0076-minimum-window-substring) |
 ## Math
 |  |
 | ------- |
