@@ -110,6 +110,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0078-subsets) |
 | [0494-target-sum](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0780-max-chunks-to-make-sorted) |
@@ -302,6 +303,7 @@
 | [0047-permutations-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0052-n-queens-ii) |
+| [0078-subsets](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0078-subsets) |
 | [0494-target-sum](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0494-target-sum) |
 ## Merge Sort
 |  |
@@ -316,6 +318,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0029-divide-two-integers) |
+| [0078-subsets](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0078-subsets) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Matrix
 |  |
