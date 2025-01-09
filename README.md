@@ -115,6 +115,7 @@
 | [0075-sort-colors](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0079-word-search) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0084-largest-rectangle-in-histogram) |
 | [0494-target-sum](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0780-max-chunks-to-make-sorted) |
@@ -256,6 +257,7 @@
 | [0032-longest-valid-parentheses](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0071-simplify-path) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0084-largest-rectangle-in-histogram) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0780-max-chunks-to-make-sorted) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
@@ -263,6 +265,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0084-largest-rectangle-in-histogram) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0780-max-chunks-to-make-sorted) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
