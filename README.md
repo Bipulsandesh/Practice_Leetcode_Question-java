@@ -119,6 +119,7 @@
 | [0078-subsets](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0084-largest-rectangle-in-histogram) |
+| [0088-merge-sorted-array](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0088-merge-sorted-array) |
 | [0494-target-sum](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0780-max-chunks-to-make-sorted) |
@@ -167,6 +168,7 @@
 | [0049-group-anagrams](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0088-merge-sorted-array) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0780-max-chunks-to-make-sorted) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 ## Linked List
@@ -221,6 +223,7 @@
 | [0075-sort-colors](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0086-partition-list) |
+| [0088-merge-sorted-array](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0088-merge-sorted-array) |
 ## Dynamic Programming
 |  |
 | ------- |
