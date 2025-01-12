@@ -58,6 +58,7 @@
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2300-construct-string-with-repeat-limit) |
 | [2465-shifting-letters-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2465-shifting-letters-ii) |
@@ -265,6 +266,7 @@
 | [0780-max-chunks-to-make-sorted](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0780-max-chunks-to-make-sorted) |
 | [1502-construct-k-palindrome-strings](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1502-construct-k-palindrome-strings) |
 | [1917-maximum-average-pass-ratio](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1917-maximum-average-pass-ratio) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2300-construct-string-with-repeat-limit) |
 ## Counting
 |  |
@@ -280,6 +282,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0084-largest-rectangle-in-histogram) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0780-max-chunks-to-make-sorted) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Monotonic Stack
 |  |
