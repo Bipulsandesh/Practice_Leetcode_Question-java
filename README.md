@@ -250,6 +250,7 @@
 | [0072-edit-distance](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0072-edit-distance) |
 | [0087-scramble-string](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0091-decode-ways) |
+| [0095-unique-binary-search-trees-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0095-unique-binary-search-trees-ii) |
 | [0494-target-sum](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [1025-minimum-cost-for-tickets](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1025-minimum-cost-for-tickets) |
@@ -295,6 +296,7 @@
 ## Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0095-unique-binary-search-trees-ii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3058-maximum-number-of-k-divisible-components) |
@@ -313,6 +315,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0095-unique-binary-search-trees-ii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Trie
@@ -345,6 +348,7 @@
 | [0089-gray-code](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0090-subsets-ii) |
 | [0093-restore-ip-addresses](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0093-restore-ip-addresses) |
+| [0095-unique-binary-search-trees-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0095-unique-binary-search-trees-ii) |
 | [0494-target-sum](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0494-target-sum) |
 ## Merge Sort
 |  |
@@ -402,4 +406,8 @@
 |  |
 | ------- |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0095-unique-binary-search-trees-ii) |
 <!---LeetCode Topics End-->
