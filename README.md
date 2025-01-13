@@ -133,6 +133,7 @@
 | [0088-merge-sorted-array](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0494-target-sum](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0780-max-chunks-to-make-sorted) |
@@ -221,6 +222,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0023-merge-k-sorted-lists) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Two Pointers
 |  |
 | ------- |
@@ -317,6 +319,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3058-maximum-number-of-k-divisible-components) |
@@ -357,6 +360,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Trie
@@ -454,4 +458,5 @@
 | [0096-unique-binary-search-trees](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0099-recover-binary-search-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
