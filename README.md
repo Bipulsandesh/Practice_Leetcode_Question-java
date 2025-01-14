@@ -204,6 +204,7 @@
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -335,6 +336,7 @@
 | [0113-path-sum-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3058-maximum-number-of-k-divisible-components) |
@@ -352,6 +354,7 @@
 | [0113-path-sum-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3058-maximum-number-of-k-divisible-components) |
@@ -366,6 +369,7 @@
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0112-path-sum](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Binary Tree
@@ -389,6 +393,7 @@
 | [0113-path-sum-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Trie
