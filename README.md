@@ -201,6 +201,7 @@
 | [0086-partition-list](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0092-reverse-linked-list-ii) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -297,6 +298,7 @@
 | [0042-trapping-rain-water](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0084-largest-rectangle-in-histogram) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0780-max-chunks-to-make-sorted) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
@@ -328,6 +330,7 @@
 | [0110-balanced-binary-tree](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0113-path-sum-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3058-maximum-number-of-k-divisible-components) |
@@ -343,6 +346,7 @@
 | [0110-balanced-binary-tree](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0113-path-sum-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3058-maximum-number-of-k-divisible-components) |
@@ -377,6 +381,7 @@
 | [0110-balanced-binary-tree](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0113-path-sum-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Trie
