@@ -60,6 +60,7 @@
 | [0115-distinct-subsequences](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0125-valid-palindrome) |
 | [0126-word-ladder-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0126-word-ladder-ii) |
+| [0131-palindrome-partitioning](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0131-palindrome-partitioning) |
 | [0952-word-subsets](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0952-word-subsets) |
 | [1502-construct-k-palindrome-strings](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1524-string-matching-in-an-array) |
@@ -286,6 +287,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0131-palindrome-partitioning](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0131-palindrome-partitioning) |
 | [0494-target-sum](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [1025-minimum-cost-for-tickets](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1025-minimum-cost-for-tickets) |
@@ -452,6 +454,7 @@
 | [0095-unique-binary-search-trees-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0095-unique-binary-search-trees-ii) |
 | [0113-path-sum-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0113-path-sum-ii) |
 | [0126-word-ladder-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0126-word-ladder-ii) |
+| [0131-palindrome-partitioning](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0131-palindrome-partitioning) |
 | [0494-target-sum](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0494-target-sum) |
 ## Merge Sort
 |  |
