@@ -21,6 +21,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0138-copy-list-with-random-pointer) |
+| [0139-word-break](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0139-word-break) |
 | [0952-word-subsets](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0952-word-subsets) |
 | [1502-construct-k-palindrome-strings](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1502-construct-k-palindrome-strings) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -64,6 +65,7 @@
 | [0126-word-ladder-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0126-word-ladder-ii) |
 | [0131-palindrome-partitioning](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0132-palindrome-partitioning-ii) |
+| [0139-word-break](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0139-word-break) |
 | [0952-word-subsets](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0952-word-subsets) |
 | [1502-construct-k-palindrome-strings](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1524-string-matching-in-an-array) |
@@ -150,6 +152,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0130-surrounded-regions) |
 | [0137-single-number-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0137-single-number-ii) |
+| [0139-word-break](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0139-word-break) |
 | [0494-target-sum](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0780-max-chunks-to-make-sorted) |
@@ -295,6 +298,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0132-palindrome-partitioning-ii) |
+| [0139-word-break](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0139-word-break) |
 | [0494-target-sum](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [1025-minimum-cost-for-tickets](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1025-minimum-cost-for-tickets) |
@@ -434,6 +438,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0139-word-break) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Binary Indexed Tree
 |  |
@@ -519,6 +524,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0139-word-break) |
 ## Rolling Hash
 |  |
 | ------- |
