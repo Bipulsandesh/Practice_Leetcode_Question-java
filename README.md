@@ -212,6 +212,7 @@
 | [0056-merge-intervals](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0148-sort-list) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0780-max-chunks-to-make-sorted) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 ## Linked List
@@ -235,6 +236,7 @@
 | [0141-linked-list-cycle](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0146-lru-cache) |
+| [0148-sort-list](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0148-sort-list) |
 ## Recursion
 |  |
 | ------- |
@@ -261,6 +263,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0148-sort-list](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0148-sort-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -282,6 +285,7 @@
 | [0125-valid-palindrome](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0148-sort-list) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -492,6 +496,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0148-sort-list) |
 ## String Matching
 |  |
 | ------- |
