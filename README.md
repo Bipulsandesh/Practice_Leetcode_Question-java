@@ -24,6 +24,7 @@
 | [0139-word-break](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0146-lru-cache) |
 | [0952-word-subsets](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0952-word-subsets) |
 | [1502-construct-k-palindrome-strings](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1502-construct-k-palindrome-strings) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -233,6 +234,7 @@
 | [0138-copy-list-with-random-pointer](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0146-lru-cache) |
 ## Recursion
 |  |
 | ------- |
@@ -578,4 +580,12 @@
 |  |
 | ------- |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
