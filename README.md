@@ -104,6 +104,7 @@
 | [0070-climbing-stairs](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0096-unique-binary-search-trees) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0150-evaluate-reverse-polish-notation) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Array
 |  |
@@ -156,6 +157,7 @@
 | [0130-surrounded-regions](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0130-surrounded-regions) |
 | [0137-single-number-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0139-word-break) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0407-trapping-rain-water-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0407-trapping-rain-water-ii) |
 | [0494-target-sum](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
@@ -350,6 +352,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0084-largest-rectangle-in-histogram) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0145-binary-tree-postorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0780-max-chunks-to-make-sorted) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
