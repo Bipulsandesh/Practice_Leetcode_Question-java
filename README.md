@@ -25,6 +25,7 @@
 | [0141-linked-list-cycle](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0146-lru-cache) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0160-intersection-of-two-linked-lists) |
 | [0952-word-subsets](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0952-word-subsets) |
 | [1502-construct-k-palindrome-strings](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1502-construct-k-palindrome-strings) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -243,6 +244,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0148-sort-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0160-intersection-of-two-linked-lists) |
 ## Recursion
 |  |
 | ------- |
@@ -292,6 +294,7 @@
 | [0141-linked-list-cycle](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0148-sort-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0160-intersection-of-two-linked-lists) |
 ## Dynamic Programming
 |  |
 | ------- |
