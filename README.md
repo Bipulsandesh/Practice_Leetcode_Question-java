@@ -161,6 +161,7 @@
 | [0139-word-break](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0152-maximum-product-subarray) |
+| [0162-find-peak-element](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0162-find-peak-element) |
 | [0407-trapping-rain-water-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0407-trapping-rain-water-ii) |
 | [0494-target-sum](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
@@ -262,6 +263,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0074-search-a-2d-matrix) |
+| [0162-find-peak-element](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0162-find-peak-element) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Divide and Conquer
 |  |
