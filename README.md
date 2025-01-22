@@ -640,4 +640,8 @@
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0164-maximum-gap) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
