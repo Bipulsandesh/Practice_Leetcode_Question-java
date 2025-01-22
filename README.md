@@ -116,6 +116,7 @@
 | [0166-fraction-to-recurring-decimal](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0166-fraction-to-recurring-decimal) |
 | [0168-excel-sheet-column-title](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0171-excel-sheet-column-number) |
+| [0172-factorial-trailing-zeroes](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0172-factorial-trailing-zeroes) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Array
 |  |
