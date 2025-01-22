@@ -27,6 +27,7 @@
 | [0146-lru-cache](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0160-intersection-of-two-linked-lists) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0166-fraction-to-recurring-decimal) |
+| [0169-majority-element](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0169-majority-element) |
 | [0952-word-subsets](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0952-word-subsets) |
 | [1502-construct-k-palindrome-strings](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1502-construct-k-palindrome-strings) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -170,6 +171,7 @@
 | [0162-find-peak-element](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0169-majority-element) |
 | [0407-trapping-rain-water-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0407-trapping-rain-water-ii) |
 | [0494-target-sum](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
@@ -231,6 +233,7 @@
 | [0088-merge-sorted-array](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0148-sort-list) |
 | [0164-maximum-gap](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0164-maximum-gap) |
+| [0169-majority-element](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0169-majority-element) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0780-max-chunks-to-make-sorted) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 ## Linked List
@@ -285,6 +288,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0169-majority-element) |
 ## Two Pointers
 |  |
 | ------- |
@@ -363,6 +367,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0169-majority-element) |
 | [1502-construct-k-palindrome-strings](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1502-construct-k-palindrome-strings) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2300-construct-string-with-repeat-limit) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3455-minimum-length-of-string-after-operations) |
