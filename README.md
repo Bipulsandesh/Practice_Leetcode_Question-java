@@ -650,4 +650,5 @@
 |  |
 | ------- |
 | [0176-second-highest-salary](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0176-second-highest-salary) |
+| [0177-nth-highest-salary](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0177-nth-highest-salary) |
 <!---LeetCode Topics End-->
