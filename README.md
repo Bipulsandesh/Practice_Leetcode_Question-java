@@ -182,6 +182,7 @@
 | [0952-word-subsets](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0952-word-subsets) |
 | [1025-minimum-cost-for-tickets](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1063-best-sightseeing-pair) |
+| [1396-count-servers-that-communicate](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1524-string-matching-in-an-array](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1524-string-matching-in-an-array) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -371,6 +372,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0169-majority-element) |
+| [1396-count-servers-that-communicate](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1502-construct-k-palindrome-strings) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2300-construct-string-with-repeat-limit) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3455-minimum-length-of-string-after-operations) |
@@ -443,6 +445,7 @@
 | [0133-clone-graph](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0133-clone-graph) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0145-binary-tree-postorder-traversal) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [1396-count-servers-that-communicate](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1396-count-servers-that-communicate) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3058-maximum-number-of-k-divisible-components) |
 ## Breadth-First Search
@@ -462,6 +465,7 @@
 | [0133-clone-graph](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0133-clone-graph) |
 | [0407-trapping-rain-water-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0407-trapping-rain-water-ii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [1396-count-servers-that-communicate](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1876-map-of-highest-peak) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -566,6 +570,7 @@
 | [0079-word-search](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0130-surrounded-regions) |
 | [0407-trapping-rain-water-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0407-trapping-rain-water-ii) |
+| [1396-count-servers-that-communicate](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1876-map-of-highest-peak) |
 | [2145-grid-game](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2145-grid-game) |
@@ -611,6 +616,7 @@
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0130-surrounded-regions) |
+| [1396-count-servers-that-communicate](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1396-count-servers-that-communicate) |
 ## Brainteaser
 |  |
 | ------- |
