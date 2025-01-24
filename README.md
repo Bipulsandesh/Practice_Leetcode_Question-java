@@ -449,6 +449,7 @@
 | [0133-clone-graph](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0133-clone-graph) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0145-binary-tree-postorder-traversal) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0820-find-eventual-safe-states](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0820-find-eventual-safe-states) |
 | [1396-count-servers-that-communicate](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1396-count-servers-that-communicate) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3058-maximum-number-of-k-divisible-components) |
@@ -469,6 +470,7 @@
 | [0133-clone-graph](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0133-clone-graph) |
 | [0407-trapping-rain-water-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0407-trapping-rain-water-ii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0820-find-eventual-safe-states](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0820-find-eventual-safe-states) |
 | [1396-count-servers-that-communicate](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1876-map-of-highest-peak) |
@@ -629,6 +631,7 @@
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0133-clone-graph) |
+| [0820-find-eventual-safe-states](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0820-find-eventual-safe-states) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## Shortest Path
 |  |
@@ -657,4 +660,8 @@
 | [0177-nth-highest-salary](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0177-nth-highest-salary) |
 | [0180-consecutive-numbers](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0180-consecutive-numbers) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0181-employees-earning-more-than-their-managers) |
+## Topological Sort
+|  |
+| ------- |
+| [0820-find-eventual-safe-states](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0820-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
