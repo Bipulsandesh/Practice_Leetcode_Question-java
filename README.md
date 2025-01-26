@@ -184,6 +184,7 @@
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0189-rotate-array](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0200-number-of-islands) |
 | [0407-trapping-rain-water-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0407-trapping-rain-water-ii) |
 | [0494-target-sum](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
@@ -460,6 +461,7 @@
 | [0130-surrounded-regions](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0133-clone-graph) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0145-binary-tree-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0200-number-of-islands) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0820-find-eventual-safe-states](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0820-find-eventual-safe-states) |
 | [1396-count-servers-that-communicate](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1396-count-servers-that-communicate) |
@@ -481,6 +483,7 @@
 | [0126-word-ladder-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0126-word-ladder-ii) |
 | [0130-surrounded-regions](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0133-clone-graph) |
+| [0200-number-of-islands](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0200-number-of-islands) |
 | [0407-trapping-rain-water-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0407-trapping-rain-water-ii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0820-find-eventual-safe-states](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0820-find-eventual-safe-states) |
@@ -589,6 +592,7 @@
 | [0074-search-a-2d-matrix](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0200-number-of-islands) |
 | [0407-trapping-rain-water-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0407-trapping-rain-water-ii) |
 | [1396-count-servers-that-communicate](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -638,6 +642,7 @@
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0200-number-of-islands) |
 | [1396-count-servers-that-communicate](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1396-count-servers-that-communicate) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Brainteaser
