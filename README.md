@@ -124,6 +124,7 @@
 | [0172-factorial-trailing-zeroes](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0204-count-primes) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Array
 |  |
@@ -187,6 +188,7 @@
 | [0189-rotate-array](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0200-number-of-islands) |
+| [0204-count-primes](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0204-count-primes) |
 | [0407-trapping-rain-water-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0407-trapping-rain-water-ii) |
 | [0494-target-sum](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
@@ -702,4 +704,12 @@
 | [0820-find-eventual-safe-states](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0820-find-eventual-safe-states) |
 | [1558-course-schedule-iv](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1558-course-schedule-iv) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
