@@ -278,6 +278,7 @@
 | [0146-lru-cache](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0160-intersection-of-two-linked-lists) |
+| [0203-remove-linked-list-elements](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0203-remove-linked-list-elements) |
 ## Recursion
 |  |
 | ------- |
@@ -287,6 +288,7 @@
 | [0025-reverse-nodes-in-k-group](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0025-reverse-nodes-in-k-group) |
 | [0044-wildcard-matching](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0044-wildcard-matching) |
 | [0060-permutation-sequence](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0060-permutation-sequence) |
+| [0203-remove-linked-list-elements](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0203-remove-linked-list-elements) |
 ## Binary Search
 |  |
 | ------- |
