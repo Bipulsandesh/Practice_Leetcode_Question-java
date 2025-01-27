@@ -29,6 +29,7 @@
 | [0166-fraction-to-recurring-decimal](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0187-repeated-dna-sequences) |
+| [0202-happy-number](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0202-happy-number) |
 | [0952-word-subsets](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0952-word-subsets) |
 | [1502-construct-k-palindrome-strings](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1502-construct-k-palindrome-strings) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -122,6 +123,7 @@
 | [0171-excel-sheet-column-number](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0202-happy-number) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Array
 |  |
@@ -332,6 +334,7 @@
 | [0165-compare-version-numbers](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0165-compare-version-numbers) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0202-happy-number) |
 ## Dynamic Programming
 |  |
 | ------- |
