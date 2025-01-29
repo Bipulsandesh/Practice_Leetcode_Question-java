@@ -86,6 +86,7 @@
 | [0205-isomorphic-strings](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0212-word-search-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0212-word-search-ii) |
 | [0952-word-subsets](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0952-word-subsets) |
 | [1502-construct-k-palindrome-strings](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1524-string-matching-in-an-array) |
@@ -196,6 +197,7 @@
 | [0200-number-of-islands](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0209-minimum-size-subarray-sum) |
+| [0212-word-search-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0212-word-search-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0407-trapping-rain-water-ii) |
 | [0494-target-sum](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
@@ -553,6 +555,7 @@
 | [0139-word-break](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0212-word-search-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0212-word-search-ii) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Binary Indexed Tree
 |  |
@@ -583,6 +586,7 @@
 | [0113-path-sum-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0113-path-sum-ii) |
 | [0126-word-ladder-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0126-word-ladder-ii) |
 | [0131-palindrome-partitioning](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0131-palindrome-partitioning) |
+| [0212-word-search-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0212-word-search-ii) |
 | [0494-target-sum](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0494-target-sum) |
 ## Merge Sort
 |  |
@@ -625,6 +629,7 @@
 | [0079-word-search](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0200-number-of-islands) |
+| [0212-word-search-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0212-word-search-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0407-trapping-rain-water-ii) |
 | [1396-count-servers-that-communicate](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
