@@ -87,6 +87,7 @@
 | [0208-implement-trie-prefix-tree](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0212-word-search-ii) |
+| [0214-shortest-palindrome](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0214-shortest-palindrome) |
 | [0952-word-subsets](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0952-word-subsets) |
 | [1502-construct-k-palindrome-strings](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1524-string-matching-in-an-array) |
@@ -603,6 +604,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0214-shortest-palindrome](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0214-shortest-palindrome) |
 | [1524-string-matching-in-an-array](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1524-string-matching-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -668,11 +670,13 @@
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0187-repeated-dna-sequences) |
+| [0214-shortest-palindrome](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0214-shortest-palindrome) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Hash Function
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0187-repeated-dna-sequences) |
+| [0214-shortest-palindrome](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0214-shortest-palindrome) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Binary Search Tree
 |  |
