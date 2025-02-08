@@ -38,6 +38,7 @@
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2300-construct-string-with-repeat-limit) |
+| [2434-design-a-number-container-system](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2434-design-a-number-container-system) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2685-first-completely-painted-row-or-column) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -250,6 +251,7 @@
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1917-maximum-average-pass-ratio](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1917-maximum-average-pass-ratio) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2300-construct-string-with-repeat-limit) |
+| [2434-design-a-number-container-system](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2434-design-a-number-container-system) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
@@ -738,6 +740,7 @@
 | [0146-lru-cache](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0146-lru-cache) |
 | [0208-implement-trie-prefix-tree](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0211-design-add-and-search-words-data-structure) |
+| [2434-design-a-number-container-system](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2434-design-a-number-container-system) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -777,4 +780,8 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0204-count-primes) |
+## Ordered Set
+|  |
+| ------- |
+| [2434-design-a-number-container-system](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2434-design-a-number-container-system) |
 <!---LeetCode Topics End-->
