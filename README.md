@@ -143,6 +143,7 @@
 | [0204-count-primes](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0204-count-primes) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1477-product-of-the-last-k-numbers) |
 | [2448-count-number-of-bad-pairs](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2448-count-number-of-bad-pairs) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Array
 |  |
@@ -626,6 +627,7 @@
 | [0131-palindrome-partitioning](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0131-palindrome-partitioning) |
 | [0212-word-search-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0212-word-search-ii) |
 | [0494-target-sum](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0494-target-sum) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Merge Sort
 |  |
 | ------- |
