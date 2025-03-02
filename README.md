@@ -48,6 +48,7 @@
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2685-first-completely-painted-row-or-column) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3455-minimum-length-of-string-after-operations) |
@@ -262,6 +263,7 @@
 | [2691-count-vowel-strings-in-ranges](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2792-neighboring-bitwise-xor) |
@@ -406,6 +408,7 @@
 | [0189-rotate-array](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0202-happy-number) |
 | [2551-apply-operations-to-an-array](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2551-apply-operations-to-an-array) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Dynamic Programming
 |  |
 | ------- |
