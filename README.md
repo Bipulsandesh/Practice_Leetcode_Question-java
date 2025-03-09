@@ -133,6 +133,7 @@
 | [0187-repeated-dna-sequences](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0187-repeated-dna-sequences) |
 | [0209-minimum-size-subarray-sum](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0209-minimum-size-subarray-sum) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [3483-alternating-groups-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3483-alternating-groups-ii) |
 ## Math
 |  |
 | ------- |
@@ -283,6 +284,7 @@
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3429-special-array-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3483-alternating-groups-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3483-alternating-groups-ii) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Heap (Priority Queue)
 |  |
