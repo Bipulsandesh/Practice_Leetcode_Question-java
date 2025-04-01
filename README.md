@@ -275,6 +275,7 @@
 | [2145-grid-game](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2145-grid-game) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2262-solving-questions-with-brainpower](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2262-solving-questions-with-brainpower) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2358-number-of-ways-to-split-array](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2358-number-of-ways-to-split-array) |
@@ -508,6 +509,7 @@
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2262-solving-questions-with-brainpower](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2262-solving-questions-with-brainpower) |
 | [2562-count-ways-to-build-good-strings](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2562-count-ways-to-build-good-strings) |
 ## Greedy
 |  |
