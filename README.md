@@ -172,6 +172,7 @@
 | [1477-product-of-the-last-k-numbers](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2448-count-number-of-bad-pairs](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2448-count-number-of-bad-pairs) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2610-closest-prime-numbers-in-range) |
@@ -273,6 +274,7 @@
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1917-maximum-average-pass-ratio](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1917-maximum-average-pass-ratio) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1927-maximum-ascending-subarray-sum) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2107-find-unique-binary-string](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2107-find-unique-binary-string) |
 | [2145-grid-game](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2145-grid-game) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -751,6 +753,7 @@
 | [1160-letter-tile-possibilities](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2107-find-unique-binary-string](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2107-find-unique-binary-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2802-find-the-punishment-number-of-an-integer) |
@@ -777,6 +780,7 @@
 | [0137-single-number-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0137-single-number-ii) |
 | [0187-repeated-dna-sequences](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0187-repeated-dna-sequences) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0201-bitwise-and-of-numbers-range) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2478-longest-nice-subarray](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2478-longest-nice-subarray) |
 | [2509-minimize-xor](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2509-minimize-xor) |
@@ -829,6 +833,7 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0062-unique-paths) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Memoization
 |  |
 | ------- |
@@ -940,6 +945,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0204-count-primes) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Number Theory
 |  |
 | ------- |
