@@ -251,6 +251,7 @@
 | [0216-combination-sum-iii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0216-combination-sum-iii) |
 | [0368-largest-divisible-subset](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0368-largest-divisible-subset) |
 | [0407-trapping-rain-water-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0407-trapping-rain-water-ii) |
+| [0416-partition-equal-subset-sum](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0780-max-chunks-to-make-sorted) |
@@ -509,6 +510,7 @@
 | [0198-house-robber](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0213-house-robber-ii) |
 | [0368-largest-divisible-subset](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0368-largest-divisible-subset) |
+| [0416-partition-equal-subset-sum](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0905-length-of-longest-fibonacci-subsequence) |
