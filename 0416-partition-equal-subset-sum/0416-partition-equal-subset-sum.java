@@ -1,26 +1,45 @@
-public class Solution {
+class Solution {
+    Boolean[][] dp;
+
     public boolean canPartition(int[] nums) {
-        int total = 0;
-        for (int num : nums) {
-            total += num;
-        }
+        int n = nums.length;
+        int sum = 0;
 
-        // If total sum is odd, cannot partition into two equal subsets
-        if (total % 2 != 0) {
-            return false;
-        }
+        // Calculate total sum of elements
+        for(int i = 0; i < n; i++)
+            sum += nums[i];
 
-        int target = total / 2;
-        boolean[] dp = new boolean[target + 1];
-        dp[0] = true; // Base case: sum 0 is always possible
+        // If sum is odd, we can't partition into equal subsets
+        if(sum % 2 == 1) return false;
 
-        for (int num : nums) {
-            for (int i = target; i >= num; i--) {
-                dp[i] = dp[i] || dp[i - num];
-            }
-        }
+        int t = sum / 2;
 
-        return dp[target];
+        // Initialize memoization table
+        dp = new Boolean[n][t + 1];
+
+        // Start recursion from index 0 and target sum = t
+        return sol(nums, 0, t);
+    }
+
+    private boolean sol(int[] nums, int idx, int t) {
+        // If target becomes negative, not a valid path
+        if(t < 0) return false;
+
+        // If target is 0, we've found a valid subset
+        if(t == 0) return true;
+
+        // If we've reached end of array without matching target
+        if(idx == nums.length) return false;
+
+        // If already computed, return stored result
+        if(dp[idx][t] != null) return dp[idx][t];
+
+        // Include current element in subset
+        if(sol(nums, idx + 1, t - nums[idx]))
+            return dp[idx][t] = true;
+
+        // Exclude current element from subset
+        return dp[idx][t] = sol(nums, idx + 1, t);
     }
 }
 
