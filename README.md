@@ -177,6 +177,7 @@
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2050-count-good-numbers](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2050-count-good-numbers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2448-count-number-of-bad-pairs](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2448-count-number-of-bad-pairs) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2610-closest-prime-numbers-in-range) |
@@ -424,6 +425,7 @@
 | [0060-permutation-sequence](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0060-permutation-sequence) |
 | [0203-remove-linked-list-elements](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0206-reverse-linked-list) |
+| [2050-count-good-numbers](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2050-count-good-numbers) |
 ## Binary Search
 |  |
 | ------- |
