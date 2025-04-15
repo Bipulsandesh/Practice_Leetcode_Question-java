@@ -291,6 +291,7 @@
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2262-solving-questions-with-brainpower](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2262-solving-questions-with-brainpower) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2280-count-good-triplets-in-an-array](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2280-count-good-triplets-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2358-number-of-ways-to-split-array](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2358-number-of-ways-to-split-array) |
 | [2448-count-number-of-bad-pairs](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2448-count-number-of-bad-pairs) |
@@ -438,6 +439,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0209-minimum-size-subarray-sum) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [2280-count-good-triplets-in-an-array](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2280-count-good-triplets-in-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2690-house-robber-iv) |
@@ -454,6 +456,7 @@
 | [0148-sort-list](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0169-majority-element) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [2280-count-good-triplets-in-an-array](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2280-count-good-triplets-in-an-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -737,10 +740,12 @@
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2280-count-good-triplets-in-an-array) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Segment Tree
 |  |
 | ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2280-count-good-triplets-in-an-array) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Backtracking
 |  |
@@ -778,6 +783,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0148-sort-list) |
+| [2280-count-good-triplets-in-an-array](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2280-count-good-triplets-in-an-array) |
 ## String Matching
 |  |
 | ------- |
@@ -974,6 +980,7 @@
 ## Ordered Set
 |  |
 | ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2280-count-good-triplets-in-an-array) |
 | [2434-design-a-number-container-system](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2434-design-a-number-container-system) |
 ## Data Stream
 |  |
