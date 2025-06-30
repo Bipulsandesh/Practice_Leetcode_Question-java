@@ -32,6 +32,7 @@
 | [0202-happy-number](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0208-implement-trie-prefix-tree) |
+| [0594-longest-harmonious-subsequence](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0594-longest-harmonious-subsequence) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0952-word-subsets) |
@@ -178,6 +179,7 @@
 | [0076-minimum-window-substring](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0076-minimum-window-substring) |
 | [0187-repeated-dna-sequences](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0187-repeated-dna-sequences) |
 | [0209-minimum-size-subarray-sum](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0209-minimum-size-subarray-sum) |
+| [0594-longest-harmonious-subsequence](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0594-longest-harmonious-subsequence) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
@@ -316,6 +318,7 @@
 | [0407-trapping-rain-water-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0494-target-sum) |
+| [0594-longest-harmonious-subsequence](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0594-longest-harmonious-subsequence) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0780-max-chunks-to-make-sorted) |
 | [0854-making-a-large-island](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0854-making-a-large-island) |
@@ -479,6 +482,7 @@
 | [0169-majority-element](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0179-largest-number) |
 | [0368-largest-divisible-subset](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0368-largest-divisible-subset) |
+| [0594-longest-harmonious-subsequence](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0594-longest-harmonious-subsequence) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0780-max-chunks-to-make-sorted) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -710,6 +714,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0169-majority-element) |
+| [0594-longest-harmonious-subsequence](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0594-longest-harmonious-subsequence) |
 | [1160-letter-tile-possibilities](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1160-letter-tile-possibilities) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1364-tuple-with-same-product](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1364-tuple-with-same-product) |
