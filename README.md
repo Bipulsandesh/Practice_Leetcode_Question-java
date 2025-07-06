@@ -47,6 +47,7 @@
 | [1510-find-lucky-integer-in-an-array](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2107-find-unique-binary-string](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2107-find-unique-binary-string) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -354,6 +355,7 @@
 | [1917-maximum-average-pass-ratio](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1917-maximum-average-pass-ratio) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2048-build-array-from-permutation](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2048-build-array-from-permutation) |
 | [2107-find-unique-binary-string](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2107-find-unique-binary-string) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -1138,6 +1140,7 @@
 | [0211-design-add-and-search-words-data-structure](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0211-design-add-and-search-words-data-structure) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1477-product-of-the-last-k-numbers) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2434-design-a-number-container-system](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2434-design-a-number-container-system) |
 ## Doubly-Linked List
 |  |
