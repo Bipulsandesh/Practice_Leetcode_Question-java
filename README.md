@@ -385,6 +385,7 @@
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2478-longest-nice-subarray](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2478-longest-nice-subarray) |
 | [2479-meeting-rooms-iii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2479-meeting-rooms-iii) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2551-apply-operations-to-an-array](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2551-apply-operations-to-an-array) |
@@ -511,6 +512,7 @@
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2479-meeting-rooms-iii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2479-meeting-rooms-iii) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2681-put-marbles-in-bags) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -631,6 +633,7 @@
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2551-apply-operations-to-an-array](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2551-apply-operations-to-an-array) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -722,6 +725,7 @@
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2456-construct-smallest-number-from-di-string) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2509-minimize-xor](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2509-minimize-xor) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2681-put-marbles-in-bags](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2681-put-marbles-in-bags) |
