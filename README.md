@@ -134,6 +134,7 @@
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1160-letter-tile-possibilities) |
 | [1170-shortest-common-supersequence](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1170-shortest-common-supersequence) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1502-construct-k-palindrome-strings](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1502-construct-k-palindrome-strings) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -339,6 +340,7 @@
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1293-three-consecutive-odds](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1293-three-consecutive-odds) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1364-tuple-with-same-product](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1396-count-servers-that-communicate) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -867,6 +869,7 @@
 | [0854-making-a-large-island](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0854-making-a-large-island) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1396-count-servers-that-communicate) |
 | [1558-course-schedule-iv](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1558-course-schedule-iv) |
@@ -955,6 +958,7 @@
 | [0212-word-search-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0212-word-search-ii) |
 | [0386-lexicographical-numbers](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0440-k-th-smallest-in-lexicographical-order) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Binary Indexed Tree
 |  |
