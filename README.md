@@ -461,6 +461,7 @@
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -987,6 +988,7 @@
 | ------- |
 | [2280-count-good-triplets-in-an-array](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2280-count-good-triplets-in-an-array) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Backtracking
 |  |
 | ------- |
@@ -1102,6 +1104,7 @@
 | [3643-zero-array-transformation-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3643-zero-array-transformation-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3647-zero-array-transformation-iii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Combinatorics
 |  |
 | ------- |
@@ -1247,6 +1250,7 @@
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Number Theory
 |  |
 | ------- |
