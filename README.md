@@ -35,6 +35,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0594-longest-harmonious-subsequence) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0940-fruit-into-baskets](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0940-fruit-into-baskets) |
 | [0952-word-subsets](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0952-word-subsets) |
 | [1160-letter-tile-possibilities](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1160-letter-tile-possibilities) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -192,6 +193,7 @@
 | [0187-repeated-dna-sequences](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0187-repeated-dna-sequences) |
 | [0209-minimum-size-subarray-sum](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0209-minimum-size-subarray-sum) |
 | [0594-longest-harmonious-subsequence](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0594-longest-harmonious-subsequence) |
+| [0940-fruit-into-baskets](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0940-fruit-into-baskets) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1813-maximum-erasure-value](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1813-maximum-erasure-value) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
@@ -344,6 +346,7 @@
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0934-bitwise-ors-of-subarrays) |
+| [0940-fruit-into-baskets](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0940-fruit-into-baskets) |
 | [0952-word-subsets](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0952-word-subsets) |
 | [1025-minimum-cost-for-tickets](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1025-minimum-cost-for-tickets) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1049-minimum-domino-rotations-for-equal-row) |
