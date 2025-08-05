@@ -474,6 +474,7 @@
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
+| [3790-fruits-into-baskets-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3790-fruits-into-baskets-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -517,6 +518,7 @@
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3790-fruits-into-baskets-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3790-fruits-into-baskets-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -625,6 +627,7 @@
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3643-zero-array-transformation-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3643-zero-array-transformation-ii) |
+| [3790-fruits-into-baskets-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3790-fruits-into-baskets-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -1005,6 +1008,7 @@
 | [2280-count-good-triplets-in-an-array](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2280-count-good-triplets-in-an-array) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
+| [3790-fruits-into-baskets-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3790-fruits-into-baskets-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -1287,6 +1291,7 @@
 | ------- |
 | [2280-count-good-triplets-in-an-array](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2280-count-good-triplets-in-an-array) |
 | [2434-design-a-number-container-system](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2434-design-a-number-container-system) |
+| [3790-fruits-into-baskets-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3790-fruits-into-baskets-ii) |
 ## Data Stream
 |  |
 | ------- |
