@@ -234,6 +234,7 @@
 | [0202-happy-number](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0204-count-primes) |
 | [0368-largest-divisible-subset](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0368-largest-divisible-subset) |
+| [0826-soup-servings](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0826-soup-servings) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1477-product-of-the-last-k-numbers) |
@@ -717,6 +718,7 @@
 | [0494-target-sum](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0806-domino-and-tromino-tiling](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0806-domino-and-tromino-tiling) |
+| [0826-soup-servings](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0826-soup-servings) |
 | [0868-push-dominoes](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0868-push-dominoes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -1310,4 +1312,8 @@
 | ------- |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2527-count-subarrays-with-fixed-bounds) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0826-soup-servings](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0826-soup-servings) |
 <!---LeetCode Topics End-->
