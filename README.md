@@ -350,6 +350,7 @@
 | [0407-trapping-rain-water-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0494-target-sum) |
+| [0498-diagonal-traverse](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0498-diagonal-traverse) |
 | [0594-longest-harmonious-subsequence](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0594-longest-harmonious-subsequence) |
 | [0679-24-game](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0679-24-game) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
@@ -524,6 +525,7 @@
 | [0043-multiply-strings](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0054-spiral-matrix) |
 | [0068-text-justification](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0068-text-justification) |
+| [0498-diagonal-traverse](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0498-diagonal-traverse) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2048-build-array-from-permutation](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2048-build-array-from-permutation) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2260-divide-a-string-into-groups-of-size-k) |
@@ -1134,6 +1136,7 @@
 | [0200-number-of-islands](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0212-word-search-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0407-trapping-rain-water-ii) |
+| [0498-diagonal-traverse](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0498-diagonal-traverse) |
 | [0854-making-a-large-island](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0854-making-a-large-island) |
 | [1396-count-servers-that-communicate](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1402-count-square-submatrices-with-all-ones) |
