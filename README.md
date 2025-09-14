@@ -38,6 +38,7 @@
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0940-fruit-into-baskets](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0940-fruit-into-baskets) |
 | [0952-word-subsets](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0952-word-subsets) |
+| [1006-vowel-spellchecker](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1006-vowel-spellchecker) |
 | [1160-letter-tile-possibilities](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1160-letter-tile-possibilities) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -137,6 +138,7 @@
 | [0214-shortest-palindrome](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0214-shortest-palindrome) |
 | [0868-push-dominoes](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0868-push-dominoes) |
 | [0952-word-subsets](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0952-word-subsets) |
+| [1006-vowel-spellchecker](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1006-vowel-spellchecker) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1160-letter-tile-possibilities) |
@@ -370,6 +372,7 @@
 | [0934-bitwise-ors-of-subarrays](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0940-fruit-into-baskets) |
 | [0952-word-subsets](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0952-word-subsets) |
+| [1006-vowel-spellchecker](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1006-vowel-spellchecker) |
 | [1025-minimum-cost-for-tickets](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1025-minimum-cost-for-tickets) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1063-best-sightseeing-pair](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1063-best-sightseeing-pair) |
