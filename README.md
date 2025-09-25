@@ -341,6 +341,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -761,6 +762,7 @@
 | [0097-interleaving-string](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
