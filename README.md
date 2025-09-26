@@ -372,6 +372,7 @@
 | [0494-target-sum](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0494-target-sum) |
 | [0498-diagonal-traverse](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0498-diagonal-traverse) |
 | [0594-longest-harmonious-subsequence](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0594-longest-harmonious-subsequence) |
+| [0611-valid-triangle-number](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0611-valid-triangle-number) |
 | [0679-24-game](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0679-24-game) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0780-max-chunks-to-make-sorted) |
@@ -590,6 +591,7 @@
 | [0179-largest-number](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0179-largest-number) |
 | [0368-largest-divisible-subset](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0368-largest-divisible-subset) |
 | [0594-longest-harmonious-subsequence](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0594-longest-harmonious-subsequence) |
+| [0611-valid-triangle-number](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0611-valid-triangle-number) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0780-max-chunks-to-make-sorted) |
 | [0900-reordered-power-of-2](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0900-reordered-power-of-2) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -673,6 +675,7 @@
 | [0162-find-peak-element](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0209-minimum-size-subarray-sum) |
+| [0611-valid-triangle-number](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0611-valid-triangle-number) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -729,6 +732,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0202-happy-number) |
+| [0611-valid-triangle-number](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0611-valid-triangle-number) |
 | [0868-push-dominoes](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0868-push-dominoes) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -826,6 +830,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0179-largest-number) |
+| [0611-valid-triangle-number](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0611-valid-triangle-number) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0780-max-chunks-to-make-sorted) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1448-maximum-69-number](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1448-maximum-69-number) |
