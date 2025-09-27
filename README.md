@@ -254,6 +254,7 @@
 | [0368-largest-divisible-subset](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0368-largest-divisible-subset) |
 | [0679-24-game](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0679-24-game) |
 | [0826-soup-servings](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0826-soup-servings) |
+| [0830-largest-triangle-area](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0830-largest-triangle-area) |
 | [0867-new-21-game](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0900-reordered-power-of-2) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -376,6 +377,7 @@
 | [0679-24-game](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0679-24-game) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0780-max-chunks-to-make-sorted) |
+| [0830-largest-triangle-area](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0830-largest-triangle-area) |
 | [0854-making-a-large-island](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0854-making-a-large-island) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -1426,6 +1428,7 @@
 ## Geometry
 |  |
 | ------- |
+| [0830-largest-triangle-area](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0830-largest-triangle-area) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 <!---LeetCode Topics End-->
