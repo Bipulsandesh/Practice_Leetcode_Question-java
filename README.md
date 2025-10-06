@@ -380,6 +380,7 @@
 | [0679-24-game](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0679-24-game) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0780-max-chunks-to-make-sorted) |
+| [0794-swim-in-rising-water](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0794-swim-in-rising-water) |
 | [0830-largest-triangle-area](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0830-largest-triangle-area) |
 | [0854-making-a-large-island](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0854-making-a-large-island) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -539,6 +540,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0023-merge-k-sorted-lists) |
 | [0407-trapping-rain-water-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0407-trapping-rain-water-ii) |
+| [0794-swim-in-rising-water](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0794-swim-in-rising-water) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1917-maximum-average-pass-ratio](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1917-maximum-average-pass-ratio) |
@@ -685,6 +687,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0209-minimum-size-subarray-sum) |
 | [0611-valid-triangle-number](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0611-valid-triangle-number) |
+| [0794-swim-in-rising-water](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0794-swim-in-rising-water) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -997,6 +1000,7 @@
 | [0417-pacific-atlantic-water-flow](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0417-pacific-atlantic-water-flow) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0684-redundant-connection](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0684-redundant-connection) |
+| [0794-swim-in-rising-water](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0794-swim-in-rising-water) |
 | [0820-find-eventual-safe-states](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0854-making-a-large-island) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -1036,6 +1040,7 @@
 | [0417-pacific-atlantic-water-flow](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0417-pacific-atlantic-water-flow) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0684-redundant-connection](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0684-redundant-connection) |
+| [0794-swim-in-rising-water](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0794-swim-in-rising-water) |
 | [0820-find-eventual-safe-states](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0854-making-a-large-island) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -1202,6 +1207,7 @@
 | [0407-trapping-rain-water-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0417-pacific-atlantic-water-flow) |
 | [0498-diagonal-traverse](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0498-diagonal-traverse) |
+| [0794-swim-in-rising-water](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0854-making-a-large-island) |
 | [1396-count-servers-that-communicate](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -1292,6 +1298,7 @@
 | [0130-surrounded-regions](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0200-number-of-islands) |
 | [0684-redundant-connection](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0684-redundant-connection) |
+| [0794-swim-in-rising-water](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0854-making-a-large-island) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1396-count-servers-that-communicate](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1396-count-servers-that-communicate) |
