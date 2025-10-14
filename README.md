@@ -524,6 +524,7 @@
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3639-zero-array-transformation-i](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3639-zero-array-transformation-i) |
