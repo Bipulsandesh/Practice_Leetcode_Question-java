@@ -228,6 +228,7 @@
 | [3483-alternating-groups-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3483-alternating-groups-ii) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Math
@@ -534,6 +535,7 @@
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3639-zero-array-transformation-i](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3639-zero-array-transformation-i) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3643-zero-array-transformation-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3647-zero-array-transformation-iii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
@@ -653,6 +655,7 @@
 | [3430-count-days-without-meetings](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3430-count-days-without-meetings) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3647-zero-array-transformation-iii) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3748-sort-matrix-by-diagonals) |
@@ -729,6 +732,7 @@
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3643-zero-array-transformation-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3790-fruits-into-baskets-ii) |
 ## Divide and Conquer
@@ -1280,6 +1284,7 @@
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3639-zero-array-transformation-i](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3639-zero-array-transformation-i) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3643-zero-array-transformation-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3647-zero-array-transformation-iii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
