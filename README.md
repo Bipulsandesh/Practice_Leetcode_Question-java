@@ -540,6 +540,7 @@
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
@@ -615,6 +616,7 @@
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3790-fruits-into-baskets-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
@@ -1297,6 +1299,7 @@
 | [2915-count-of-interesting-subarrays](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2915-count-of-interesting-subarrays) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3639-zero-array-transformation-i](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3639-zero-array-transformation-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
