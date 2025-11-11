@@ -148,6 +148,7 @@
 | [0211-design-add-and-search-words-data-structure](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0212-word-search-ii) |
 | [0214-shortest-palindrome](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0214-shortest-palindrome) |
+| [0474-ones-and-zeroes](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0474-ones-and-zeroes) |
 | [0868-push-dominoes](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0868-push-dominoes) |
 | [0952-word-subsets](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0952-word-subsets) |
 | [1006-vowel-spellchecker](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1006-vowel-spellchecker) |
@@ -395,6 +396,7 @@
 | [0407-trapping-rain-water-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0417-pacific-atlantic-water-flow) |
+| [0474-ones-and-zeroes](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0494-target-sum) |
 | [0498-diagonal-traverse](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0498-diagonal-traverse) |
 | [0594-longest-harmonious-subsequence](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0594-longest-harmonious-subsequence) |
@@ -851,6 +853,7 @@
 | [0213-house-robber-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0213-house-robber-ii) |
 | [0368-largest-divisible-subset](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0416-partition-equal-subset-sum) |
+| [0474-ones-and-zeroes](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0806-domino-and-tromino-tiling](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0806-domino-and-tromino-tiling) |
