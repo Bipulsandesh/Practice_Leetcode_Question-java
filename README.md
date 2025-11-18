@@ -407,6 +407,7 @@
 | [0611-valid-triangle-number](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0611-valid-triangle-number) |
 | [0679-24-game](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0679-24-game) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [0717-1-bit-and-2-bit-characters](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0780-max-chunks-to-make-sorted) |
 | [0794-swim-in-rising-water](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0794-swim-in-rising-water) |
 | [0830-largest-triangle-area](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0830-largest-triangle-area) |
