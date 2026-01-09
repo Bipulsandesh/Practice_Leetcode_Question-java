@@ -33,6 +33,7 @@
 | [0205-isomorphic-strings](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0208-implement-trie-prefix-tree) |
 | [0594-longest-harmonious-subsequence](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0594-longest-harmonious-subsequence) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0900-reordered-power-of-2](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0900-reordered-power-of-2) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -1087,6 +1088,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0145-binary-tree-postorder-traversal) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -1129,6 +1131,7 @@
 | [0794-swim-in-rising-water](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0794-swim-in-rising-water) |
 | [0820-find-eventual-safe-states](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0854-making-a-large-island) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -1171,6 +1174,7 @@
 | [0794-swim-in-rising-water](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0794-swim-in-rising-water) |
 | [0820-find-eventual-safe-states](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0854-making-a-large-island) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -1211,6 +1215,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0145-binary-tree-postorder-traversal) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
