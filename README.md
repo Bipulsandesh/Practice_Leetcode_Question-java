@@ -579,6 +579,7 @@
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3453-separate-squares-i](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3453-separate-squares-i) |
+| [3454-separate-squares-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3454-separate-squares-ii) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3483-alternating-groups-ii) |
@@ -803,6 +804,7 @@
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3453-separate-squares-i](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3453-separate-squares-i) |
+| [3454-separate-squares-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3454-separate-squares-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3643-zero-array-transformation-ii) |
@@ -1254,6 +1256,7 @@
 | ------- |
 | [2280-count-good-triplets-in-an-array](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2280-count-good-triplets-in-an-array) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3454-separate-squares-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3454-separate-squares-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3790-fruits-into-baskets-ii) |
 ## Backtracking
@@ -1629,4 +1632,8 @@
 |  |
 | ------- |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+## Line Sweep
+|  |
+| ------- |
+| [3454-separate-squares-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3454-separate-squares-ii) |
 <!---LeetCode Topics End-->
