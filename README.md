@@ -551,6 +551,7 @@
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2915-count-of-interesting-subarrays](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2915-count-of-interesting-subarrays) |
+| [2943-maximize-area-of-square-hole-in-grid](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3001-apply-operations-to-maximize-score) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -714,6 +715,7 @@
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2888-minimum-index-of-a-valid-split) |
+| [2943-maximize-area-of-square-hole-in-grid](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3001-apply-operations-to-maximize-score) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3241-divide-array-into-arrays-with-max-difference) |
