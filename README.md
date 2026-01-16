@@ -85,6 +85,7 @@
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2915-count-of-interesting-subarrays](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2915-count-of-interesting-subarrays) |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3227-find-missing-and-repeated-values](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -552,6 +553,7 @@
 | [2888-minimum-index-of-a-valid-split](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2915-count-of-interesting-subarrays](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2915-count-of-interesting-subarrays) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3001-apply-operations-to-maximize-score) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -1574,6 +1576,7 @@
 | [2174-next-greater-numerically-balanced-number](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2215-finding-3-digit-even-numbers) |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [2998-count-symmetric-integers](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2998-count-symmetric-integers) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3201-distribute-candies-among-children-ii) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
