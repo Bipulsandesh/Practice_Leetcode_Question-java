@@ -576,6 +576,7 @@
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3321-type-of-triangle](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3321-type-of-triangle) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -1345,6 +1346,7 @@
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2792-neighboring-bitwise-xor) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3676-smallest-number-with-all-set-bits) |
