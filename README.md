@@ -233,6 +233,7 @@
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1813-maximum-erasure-value](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1813-maximum-erasure-value) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
@@ -486,6 +487,7 @@
 | [1917-maximum-average-pass-ratio](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1917-maximum-average-pass-ratio) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1975-maximum-matrix-sum](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1975-maximum-matrix-sum) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2023-design-movie-rental-system](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2023-design-movie-rental-system) |
@@ -714,6 +716,7 @@
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
