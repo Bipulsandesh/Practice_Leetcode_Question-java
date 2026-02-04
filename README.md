@@ -614,6 +614,7 @@
 | [3637-trionic-array-i](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3637-trionic-array-i) |
 | [3639-zero-array-transformation-i](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3639-zero-array-transformation-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
+| [3640-trionic-array-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3640-trionic-array-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3643-zero-array-transformation-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3647-zero-array-transformation-iii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
@@ -974,6 +975,7 @@
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3637-count-number-of-balanced-permutations) |
+| [3640-trionic-array-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3640-trionic-array-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
