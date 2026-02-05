@@ -588,6 +588,7 @@
 | [3321-type-of-triangle](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3321-type-of-triangle) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3379-transformed-array](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3379-transformed-array) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3429-special-array-i](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3429-special-array-i) |
@@ -687,6 +688,7 @@
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3336-water-bottles-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3336-water-bottles-ii) |
+| [3379-transformed-array](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3379-transformed-array) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
