@@ -863,6 +863,7 @@
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0190-reverse-bits) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1382-balance-a-binary-search-tree](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1382-balance-a-binary-search-tree) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2280-count-good-triplets-in-an-array) |
@@ -1375,6 +1376,7 @@
 | [0090-subsets-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0090-subsets-ii) |
 | [0137-single-number-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0137-single-number-ii) |
 | [0187-repeated-dna-sequences](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0187-repeated-dna-sequences) |
+| [0190-reverse-bits](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0190-reverse-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0231-power-of-two](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0342-power-of-four) |
