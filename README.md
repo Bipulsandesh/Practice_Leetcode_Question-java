@@ -1380,6 +1380,7 @@
 | [0201-bitwise-and-of-numbers-range](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0231-power-of-two](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0342-power-of-four) |
+| [0693-binary-number-with-alternating-bits](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0693-binary-number-with-alternating-bits) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1930-unique-length-3-palindromic-subsequences) |
