@@ -161,6 +161,7 @@
 | [0212-word-search-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0212-word-search-ii) |
 | [0214-shortest-palindrome](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0214-shortest-palindrome) |
 | [0474-ones-and-zeroes](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0474-ones-and-zeroes) |
+| [0696-count-binary-substrings](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0696-count-binary-substrings) |
 | [0868-push-dominoes](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0868-push-dominoes) |
 | [0952-word-subsets](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0952-word-subsets) |
 | [1006-vowel-spellchecker](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1006-vowel-spellchecker) |
@@ -897,6 +898,7 @@
 | [0189-rotate-array](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0202-happy-number) |
 | [0611-valid-triangle-number](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0611-valid-triangle-number) |
+| [0696-count-binary-substrings](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0696-count-binary-substrings) |
 | [0868-push-dominoes](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0868-push-dominoes) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1877-minimize-maximum-pair-sum-in-array) |
