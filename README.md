@@ -174,6 +174,7 @@
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1502-construct-k-palindrome-strings](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1502-construct-k-palindrome-strings) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -690,6 +691,7 @@
 | [0067-add-binary](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0068-text-justification) |
 | [0498-diagonal-traverse](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0498-diagonal-traverse) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2048-build-array-from-permutation](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2048-build-array-from-permutation) |
 | [2169-simple-bank-system](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2169-simple-bank-system) |
@@ -1390,6 +1392,7 @@
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0868-binary-gap) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0934-bitwise-ors-of-subarrays) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1993-sum-of-all-subset-xor-totals) |
