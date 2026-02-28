@@ -311,6 +311,7 @@
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1636-number-of-substrings-with-only-1s) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1925-count-square-sum-triples](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1925-count-square-sum-triples) |
@@ -692,6 +693,7 @@
 | [0068-text-justification](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0068-text-justification) |
 | [0498-diagonal-traverse](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0498-diagonal-traverse) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2048-build-array-from-permutation](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2048-build-array-from-permutation) |
 | [2169-simple-bank-system](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2169-simple-bank-system) |
@@ -1393,6 +1395,7 @@
 | [0868-binary-gap](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0868-binary-gap) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1993-sum-of-all-subset-xor-totals) |
