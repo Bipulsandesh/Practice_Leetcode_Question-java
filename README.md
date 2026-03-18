@@ -592,6 +592,7 @@
 | [3001-apply-operations-to-maximize-score](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3001-apply-operations-to-maximize-score) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
@@ -1487,6 +1488,7 @@
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2685-first-completely-painted-row-or-column) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3227-find-missing-and-repeated-values](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3227-find-missing-and-repeated-values) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
@@ -1517,6 +1519,7 @@
 | [2529-range-product-queries-of-powers](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2529-range-product-queries-of-powers) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2915-count-of-interesting-subarrays](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2915-count-of-interesting-subarrays) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
