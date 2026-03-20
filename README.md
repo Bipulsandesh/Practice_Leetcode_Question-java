@@ -633,6 +633,7 @@
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
@@ -791,6 +792,7 @@
 | [3321-type-of-triangle](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3321-type-of-triangle) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3430-count-days-without-meetings](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3430-count-days-without-meetings) |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3634-minimum-removals-to-balance-array) |
@@ -1493,6 +1495,7 @@
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3227-find-missing-and-repeated-values](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3227-find-missing-and-repeated-values) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
