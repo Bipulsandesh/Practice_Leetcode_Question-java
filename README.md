@@ -210,6 +210,7 @@
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2465-shifting-letters-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2465-shifting-letters-ii) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2573-find-the-string-with-lcp](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2573-find-the-string-with-lcp) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
@@ -569,6 +570,7 @@
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2551-apply-operations-to-an-array](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2551-apply-operations-to-an-array) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2564-most-profitable-path-in-a-tree) |
+| [2573-find-the-string-with-lcp](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2573-find-the-string-with-lcp) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2626-count-the-number-of-good-subarrays) |
@@ -1028,6 +1030,7 @@
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2562-count-ways-to-build-good-strings](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2562-count-ways-to-build-good-strings) |
+| [2573-find-the-string-with-lcp](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2573-find-the-string-with-lcp) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
@@ -1086,6 +1089,7 @@
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2509-minimize-xor](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2509-minimize-xor) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2573-find-the-string-with-lcp](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2573-find-the-string-with-lcp) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2681-put-marbles-in-bags](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2681-put-marbles-in-bags) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2704-maximum-difference-by-remapping-a-digit) |
@@ -1500,6 +1504,7 @@
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
+| [2573-find-the-string-with-lcp](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2573-find-the-string-with-lcp) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2685-first-completely-painted-row-or-column) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -1802,6 +1807,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [2573-find-the-string-with-lcp](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2573-find-the-string-with-lcp) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Minimum Spanning Tree
 |  |
