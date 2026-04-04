@@ -196,6 +196,7 @@
 | [1980-find-unique-binary-string](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1980-find-unique-binary-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2075-decode-the-slanted-ciphertext](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2107-find-unique-binary-string](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2107-find-unique-binary-string) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2140-longest-subsequence-repeated-k-times) |
@@ -729,6 +730,7 @@
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2048-build-array-from-permutation](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2048-build-array-from-permutation) |
+| [2075-decode-the-slanted-ciphertext](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2169-simple-bank-system](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2169-simple-bank-system) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2265-partition-array-according-to-given-pivot) |
