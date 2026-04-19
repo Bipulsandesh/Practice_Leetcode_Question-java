@@ -518,6 +518,7 @@
 | [1834-minimum-number-of-people-to-teach](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1876-map-of-highest-peak](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1876-map-of-highest-peak) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -895,6 +896,7 @@
 | [1612-avoid-flood-in-the-city](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1612-avoid-flood-in-the-city) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -966,6 +968,7 @@
 | [0696-count-binary-substrings](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0696-count-binary-substrings) |
 | [0868-push-dominoes](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0868-push-dominoes) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2320-find-all-k-distant-indices-in-an-array) |
