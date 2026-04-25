@@ -368,6 +368,7 @@
 | [3321-type-of-triangle](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3321-type-of-triangle) |
 | [3336-water-bottles-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3336-water-bottles-ii) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3548-find-the-count-of-good-integers](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3548-find-the-count-of-good-integers) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
@@ -653,6 +654,7 @@
 | [3453-separate-squares-i](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3454-separate-squares-ii) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3483-alternating-groups-ii) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
@@ -829,6 +831,7 @@
 | [3321-type-of-triangle](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3321-type-of-triangle) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3430-count-days-without-meetings](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3430-count-days-without-meetings) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
@@ -918,6 +921,7 @@
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3453-separate-squares-i](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3454-separate-squares-ii) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
@@ -1829,6 +1833,7 @@
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 ## Bitmask
 |  |
 | ------- |
