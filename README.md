@@ -503,6 +503,7 @@
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1524-string-matching-in-an-array](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1524-string-matching-in-an-array) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -1297,6 +1298,7 @@
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1396-count-servers-that-communicate) |
 | [1558-course-schedule-iv](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1558-course-schedule-iv) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2438-find-closest-node-to-given-two-nodes) |
@@ -1339,6 +1341,7 @@
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1558-course-schedule-iv](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1558-course-schedule-iv) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1876-map-of-highest-peak](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1876-map-of-highest-peak) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2564-most-profitable-path-in-a-tree) |
@@ -1530,6 +1533,7 @@
 | [1396-count-servers-that-communicate](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1628-count-submatrices-with-all-ones) |
@@ -1851,6 +1855,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [1559-detect-cycles-in-2d-grid](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2573-find-the-string-with-lcp](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2573-find-the-string-with-lcp) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Minimum Spanning Tree
