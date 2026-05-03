@@ -170,6 +170,7 @@
 | [0657-robot-return-to-origin](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0657-robot-return-to-origin) |
 | [0696-count-binary-substrings](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0696-count-binary-substrings) |
 | [0761-special-binary-string](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0761-special-binary-string) |
+| [0796-rotate-string](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0796-rotate-string) |
 | [0868-push-dominoes](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0868-push-dominoes) |
 | [0952-word-subsets](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0952-word-subsets) |
 | [1006-vowel-spellchecker](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1006-vowel-spellchecker) |
@@ -1469,6 +1470,7 @@
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0214-shortest-palindrome) |
+| [0796-rotate-string](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0796-rotate-string) |
 | [1524-string-matching-in-an-array](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1524-string-matching-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3309-count-prefix-and-suffix-pairs-i) |
