@@ -536,6 +536,7 @@
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1895-largest-magic-square](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1895-largest-magic-square) |
+| [1914-cyclically-rotating-a-grid](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1914-cyclically-rotating-a-grid) |
 | [1917-maximum-average-pass-ratio](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1917-maximum-average-pass-ratio) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1975-maximum-matrix-sum](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1975-maximum-matrix-sum) |
@@ -756,6 +757,7 @@
 | [0657-robot-return-to-origin](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0657-robot-return-to-origin) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [1914-cyclically-rotating-a-grid](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1914-cyclically-rotating-a-grid) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2048-build-array-from-permutation](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2048-build-array-from-permutation) |
 | [2069-walking-robot-simulation-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2069-walking-robot-simulation-ii) |
@@ -1560,6 +1562,7 @@
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1895-largest-magic-square](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1895-largest-magic-square) |
+| [1914-cyclically-rotating-a-grid](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1914-cyclically-rotating-a-grid) |
 | [1975-maximum-matrix-sum](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1975-maximum-matrix-sum) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2145-grid-game](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2145-grid-game) |
