@@ -615,6 +615,7 @@
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2792-neighboring-bitwise-xor](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2792-neighboring-bitwise-xor) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2888-minimum-index-of-a-valid-split) |
@@ -1081,6 +1082,7 @@
 | [2463-minimum-total-distance-traveled](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2463-minimum-total-distance-traveled) |
 | [2562-count-ways-to-build-good-strings](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2562-count-ways-to-build-good-strings) |
 | [2573-find-the-string-with-lcp](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2573-find-the-string-with-lcp) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
