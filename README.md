@@ -91,6 +91,7 @@
 | [2888-minimum-index-of-a-valid-split](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2915-count-of-interesting-subarrays](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2915-count-of-interesting-subarrays) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3227-find-missing-and-repeated-values](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -228,6 +229,7 @@
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3194-find-words-containing-character) |
@@ -633,6 +635,7 @@
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3001-apply-operations-to-maximize-score) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
@@ -1426,6 +1429,7 @@
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2079-delete-duplicate-folders-in-system) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Binary Indexed Tree
 |  |
