@@ -565,6 +565,7 @@
 | [2079-delete-duplicate-folders-in-system](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2107-find-unique-binary-string](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2107-find-unique-binary-string) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
+| [2126-destroying-asteroids](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2126-destroying-asteroids) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2145-grid-game](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2145-grid-game) |
@@ -834,6 +835,7 @@
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [2126-destroying-asteroids](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2126-destroying-asteroids) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -1155,6 +1157,7 @@
 | [1917-maximum-average-pass-ratio](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1917-maximum-average-pass-ratio) |
 | [1975-maximum-matrix-sum](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1975-maximum-matrix-sum) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2126-destroying-asteroids](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2126-destroying-asteroids) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
