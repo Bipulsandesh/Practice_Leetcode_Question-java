@@ -386,6 +386,7 @@
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3548-find-the-count-of-good-integers](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3548-find-the-count-of-good-integers) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -697,6 +698,7 @@
 | [3546-equal-sum-grid-partition-i](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
@@ -1136,6 +1138,7 @@
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3637-count-number-of-balanced-permutations) |
@@ -1325,6 +1328,7 @@
 | [2564-most-profitable-path-in-a-tree](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2564-most-profitable-path-in-a-tree) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3058-maximum-number-of-k-divisible-components) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 ## Depth-First Search
 |  |
@@ -1376,6 +1380,7 @@
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2793-count-the-number-of-complete-components) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3058-maximum-number-of-k-divisible-components) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 ## Breadth-First Search
 |  |
@@ -1580,6 +1585,7 @@
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
