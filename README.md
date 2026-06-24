@@ -397,6 +397,7 @@
 | [3637-count-number-of-balanced-permutations](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3637-count-number-of-balanced-permutations) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
@@ -1151,6 +1152,7 @@
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3699-number-of-zigzag-arrays-i) |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3751-total-waviness-of-numbers-in-range-i) |
