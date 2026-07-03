@@ -712,6 +712,7 @@
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
+| [3620-network-recovery-pathways](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3620-network-recovery-pathways) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
@@ -779,6 +780,7 @@
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
+| [3620-network-recovery-pathways](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3620-network-recovery-pathways) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3647-zero-array-transformation-iii) |
@@ -984,6 +986,7 @@
 | [3454-separate-squares-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3454-separate-squares-ii) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+| [3620-network-recovery-pathways](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3620-network-recovery-pathways) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -1147,6 +1150,7 @@
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+| [3620-network-recovery-pathways](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3620-network-recovery-pathways) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3637-count-number-of-balanced-permutations) |
@@ -1810,6 +1814,7 @@
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [3620-network-recovery-pathways](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3620-network-recovery-pathways) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3650-minimum-cost-path-with-edge-reversals) |
@@ -1864,6 +1869,7 @@
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
+| [3620-network-recovery-pathways](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3620-network-recovery-pathways) |
 ## Enumeration
 |  |
 | ------- |
@@ -1956,6 +1962,7 @@
 | ------- |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+| [3620-network-recovery-pathways](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3620-network-recovery-pathways) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Union-Find
 |  |
