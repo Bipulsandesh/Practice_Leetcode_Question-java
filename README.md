@@ -511,6 +511,7 @@
 | [1266-minimum-time-visiting-all-points](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1266-minimum-time-visiting-all-points) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1293-three-consecutive-odds](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1293-three-consecutive-odds) |
+| [1301-number-of-paths-with-max-score](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1301-number-of-paths-with-max-score) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1345-jump-game-iv](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1345-jump-game-iv) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -1110,6 +1111,7 @@
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1170-shortest-common-supersequence](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1170-shortest-common-supersequence) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1301-number-of-paths-with-max-score](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1301-number-of-paths-with-max-score) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
@@ -1626,6 +1628,7 @@
 | [0794-swim-in-rising-water](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0854-making-a-large-island) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [1301-number-of-paths-with-max-score](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1301-number-of-paths-with-max-score) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1396-count-servers-that-communicate](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1396-count-servers-that-communicate) |
