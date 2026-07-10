@@ -703,6 +703,7 @@
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -891,6 +892,7 @@
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3430-count-days-without-meetings](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3430-count-days-without-meetings) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
@@ -986,6 +988,7 @@
 | [3453-separate-squares-i](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3454-separate-squares-ii) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3620-network-recovery-pathways](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3620-network-recovery-pathways) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
@@ -1056,6 +1059,7 @@
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
@@ -1151,6 +1155,7 @@
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3620-network-recovery-pathways](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3620-network-recovery-pathways) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -1225,6 +1230,7 @@
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -1601,6 +1607,7 @@
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3676-smallest-number-with-all-set-bits) |
@@ -1964,6 +1971,7 @@
 |  |
 | ------- |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3620-network-recovery-pathways](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3620-network-recovery-pathways) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3650-minimum-cost-path-with-edge-reversals) |
