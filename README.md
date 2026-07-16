@@ -405,6 +405,7 @@
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Array
 |  |
 | ------- |
@@ -753,6 +754,7 @@
 | [3797-design-spreadsheet](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3797-design-spreadsheet) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -828,6 +830,7 @@
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3790-fruits-into-baskets-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -904,6 +907,7 @@
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3748-sort-matrix-by-diagonals) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Linked List
 |  |
 | ------- |
@@ -1063,6 +1067,7 @@
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -1920,6 +1925,7 @@
 | [3001-apply-operations-to-maximize-score](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3001-apply-operations-to-maximize-score) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Ordered Set
 |  |
 | ------- |
