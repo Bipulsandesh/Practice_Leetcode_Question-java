@@ -183,6 +183,7 @@
 | [0952-word-subsets](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0952-word-subsets) |
 | [1006-vowel-spellchecker](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1006-vowel-spellchecker) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1058-lexicographically-smallest-equivalent-string) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1160-letter-tile-possibilities) |
 | [1170-shortest-common-supersequence](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1170-shortest-common-supersequence) |
@@ -1190,6 +1191,7 @@
 | [0780-max-chunks-to-make-sorted](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0780-max-chunks-to-make-sorted) |
 | [1018-largest-perimeter-triangle](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1018-largest-perimeter-triangle) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1049-minimum-domino-rotations-for-equal-row) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1382-balance-a-binary-search-tree](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1382-balance-a-binary-search-tree) |
 | [1448-maximum-69-number](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1448-maximum-69-number) |
@@ -1290,6 +1292,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0780-max-chunks-to-make-sorted) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -1310,6 +1313,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0085-maximal-rectangle) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0780-max-chunks-to-make-sorted) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
