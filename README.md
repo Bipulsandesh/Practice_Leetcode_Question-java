@@ -389,6 +389,7 @@
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3536-maximum-product-of-two-digits](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3536-maximum-product-of-two-digits) |
 | [3548-find-the-count-of-good-integers](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3548-find-the-count-of-good-integers) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -899,6 +900,7 @@
 | [3430-count-days-without-meetings](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3430-count-days-without-meetings) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3536-maximum-product-of-two-digits](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3536-maximum-product-of-two-digits) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
