@@ -325,6 +325,7 @@
 | [0326-power-of-three](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0342-power-of-four) |
 | [0368-largest-divisible-subset](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0368-largest-divisible-subset) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0628-maximum-product-of-three-numbers) |
 | [0679-24-game](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0679-24-game) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0826-soup-servings](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0826-soup-servings) |
@@ -491,6 +492,7 @@
 | [0498-diagonal-traverse](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0498-diagonal-traverse) |
 | [0594-longest-harmonious-subsequence](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0611-valid-triangle-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0628-maximum-product-of-three-numbers) |
 | [0679-24-game](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0679-24-game) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0717-1-bit-and-2-bit-characters) |
@@ -852,6 +854,7 @@
 | [0368-largest-divisible-subset](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0368-largest-divisible-subset) |
 | [0594-longest-harmonious-subsequence](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0611-valid-triangle-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0628-maximum-product-of-three-numbers) |
 | [0759-set-intersection-size-at-least-two](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0759-set-intersection-size-at-least-two) |
 | [0761-special-binary-string](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0761-special-binary-string) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0780-max-chunks-to-make-sorted) |
