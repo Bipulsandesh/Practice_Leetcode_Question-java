@@ -390,6 +390,7 @@
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3321-type-of-triangle](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3321-type-of-triangle) |
 | [3336-water-bottles-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3336-water-bottles-ii) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -1924,6 +1925,7 @@
 | [3201-distribute-candies-among-children-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3201-distribute-candies-among-children-ii) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3546-equal-sum-grid-partition-i) |
