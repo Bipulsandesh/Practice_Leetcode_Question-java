@@ -337,6 +337,7 @@
 | [0900-reordered-power-of-2](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0900-reordered-power-of-2) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1018-largest-perimeter-triangle) |
+| [1140-stone-game-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1140-stone-game-ii) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1266-minimum-time-visiting-all-points) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1406-stone-game-iii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1406-stone-game-iii) |
@@ -518,6 +519,7 @@
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1063-best-sightseeing-pair](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1063-best-sightseeing-pair) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1111-minimum-score-triangulation-of-polygon) |
+| [1140-stone-game-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1140-stone-game-ii) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1266-minimum-time-visiting-all-points) |
@@ -1134,6 +1136,7 @@
 | [1025-minimum-cost-for-tickets](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1063-best-sightseeing-pair) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1111-minimum-score-triangulation-of-polygon) |
+| [1140-stone-game-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1140-stone-game-ii) |
 | [1170-shortest-common-supersequence](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1170-shortest-common-supersequence) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1301-number-of-paths-with-max-score](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1301-number-of-paths-with-max-score) |
@@ -1713,6 +1716,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0209-minimum-size-subarray-sum) |
+| [1140-stone-game-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1140-stone-game-ii) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1477-product-of-the-last-k-numbers) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1537-maximum-score-after-splitting-a-string) |
@@ -2022,13 +2026,16 @@
 ## Minimax
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1406-stone-game-iii) |
 ## Game Theory
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
