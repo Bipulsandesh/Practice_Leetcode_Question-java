@@ -92,6 +92,7 @@
 | [2888-minimum-index-of-a-valid-split](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2915-count-of-interesting-subarrays](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2915-count-of-interesting-subarrays) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -671,6 +672,7 @@
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3001-apply-operations-to-maximize-score) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -901,6 +903,7 @@
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3001-apply-operations-to-maximize-score) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
