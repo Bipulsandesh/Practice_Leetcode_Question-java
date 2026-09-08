@@ -424,6 +424,7 @@
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3870-count-commas-in-range](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3870-count-commas-in-range) |
 ## Array
 |  |
 | ------- |
