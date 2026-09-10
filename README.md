@@ -1392,6 +1392,7 @@
 | [1382-balance-a-binary-search-tree](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1382-balance-a-binary-search-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2564-most-profitable-path-in-a-tree) |
@@ -1442,6 +1443,7 @@
 | [1558-course-schedule-iv](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1558-course-schedule-iv) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -1530,6 +1532,7 @@
 | [1382-balance-a-binary-search-tree](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1382-balance-a-binary-search-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Trie
 |  |
