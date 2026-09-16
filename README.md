@@ -357,6 +357,7 @@
 | [1510-stone-game-iv](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1510-stone-game-iv) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1622-fancy-sequence](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1622-fancy-sequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1636-number-of-substrings-with-only-1s) |
@@ -1162,6 +1163,7 @@
 | [1510-stone-game-iv](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1510-stone-game-iv) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1628-count-submatrices-with-all-ones) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -1741,6 +1743,7 @@
 | [1477-product-of-the-last-k-numbers](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1477-product-of-the-last-k-numbers) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1590-make-sum-divisible-by-p](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1590-make-sum-divisible-by-p) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1732-find-the-highest-altitude](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1732-find-the-highest-altitude) |
 | [1871-jump-game-vii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1871-jump-game-vii) |
@@ -1787,6 +1790,7 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/0062-unique-paths) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3201-distribute-candies-among-children-ii) |
