@@ -406,6 +406,7 @@
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3524-find-x-value-of-array-i](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3524-find-x-value-of-array-i) |
+| [3525-find-x-value-of-array-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3525-find-x-value-of-array-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3536-maximum-product-of-two-digits) |
 | [3548-find-the-count-of-good-integers](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3548-find-the-count-of-good-integers) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -733,6 +734,7 @@
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3524-find-x-value-of-array-i](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3524-find-x-value-of-array-i) |
+| [3525-find-x-value-of-array-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3525-find-x-value-of-array-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3548-equal-sum-grid-partition-ii) |
@@ -1566,6 +1568,7 @@
 | [2280-count-good-triplets-in-an-array](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/2280-count-good-triplets-in-an-array) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3454-separate-squares-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3454-separate-squares-ii) |
+| [3525-find-x-value-of-array-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3525-find-x-value-of-array-ii) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3721-longest-balanced-subarray-ii) |
