@@ -767,6 +767,7 @@
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3661-maximum-walls-destroyed-by-robots) |
+| [3665-twisted-mirror-path-count](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3665-twisted-mirror-path-count) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3691-maximum-total-subarray-value-ii) |
@@ -1216,6 +1217,7 @@
 | [3640-trionic-array-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3640-trionic-array-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3661-maximum-walls-destroyed-by-robots) |
+| [3665-twisted-mirror-path-count](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3665-twisted-mirror-path-count) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
@@ -1740,6 +1742,7 @@
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
+| [3665-twisted-mirror-path-count](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3665-twisted-mirror-path-count) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Bipulsandesh/Practice_Leetcode_Question-java/tree/master/3748-sort-matrix-by-diagonals) |
